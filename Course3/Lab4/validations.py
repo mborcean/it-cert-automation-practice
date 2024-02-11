@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+# add a comment to commit description to close issue 1
+
 import re
 
 def validate_user(username, minlen):
